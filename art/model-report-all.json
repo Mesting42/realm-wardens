@@ -1,0 +1,934 @@
+[
+  {
+    "file": "models/hero-knight.glb",
+    "source": "KayKit adventurers: Knight; Warden equipment and material adaptation",
+    "bytes": 549656,
+    "sha256": "774be2b5eacfaca92e3a71c639426611c6b4e87935b12accc38424496a9901e2",
+    "animations": [
+      "Attack",
+      "Cast",
+      "Death",
+      "Hit",
+      "Idle",
+      "Victory",
+      "Walk"
+    ],
+    "skins": 1,
+    "meshes": 10,
+    "triangles": 5274
+  },
+  {
+    "file": "models/hero-ranger.glb",
+    "source": "KayKit adventurers: Rogue_Hooded; Warden equipment and material adaptation",
+    "bytes": 510452,
+    "sha256": "114be321556365e093a9955aeda70c11d98d36fd4db8d0a618acec27c9b89cff",
+    "animations": [
+      "Attack",
+      "Cast",
+      "Death",
+      "Hit",
+      "Idle",
+      "Victory",
+      "Walk"
+    ],
+    "skins": 1,
+    "meshes": 8,
+    "triangles": 4589
+  },
+  {
+    "file": "models/hero-mage.glb",
+    "source": "KayKit adventurers: Mage; Warden equipment and material adaptation",
+    "bytes": 523672,
+    "sha256": "7a6fdb43ce22ee3a90301bbbeb9613e656b7d234e123761ae6bebbd42fac8c43",
+    "animations": [
+      "Attack",
+      "Cast",
+      "Death",
+      "Hit",
+      "Idle",
+      "Victory",
+      "Walk"
+    ],
+    "skins": 1,
+    "meshes": 9,
+    "triangles": 4949
+  },
+  {
+    "file": "models/hero-druid.glb",
+    "source": "KayKit adventurers: Mage; Warden equipment and material adaptation",
+    "bytes": 608400,
+    "sha256": "92a00b8ecc294cecc3f2dbf30f256055f2c20303953e8e396ab86f58290ba1fa",
+    "animations": [
+      "Attack",
+      "Cast",
+      "Death",
+      "Hit",
+      "Idle",
+      "Victory",
+      "Walk"
+    ],
+    "skins": 1,
+    "meshes": 22,
+    "triangles": 5437
+  },
+  {
+    "file": "models/enemy-guard.glb",
+    "source": "KayKit adventurers: Knight; Warden equipment and material adaptation",
+    "bytes": 551004,
+    "sha256": "fdbf7eddf91be8970c557f83bddf0472e7af4743be4e34034a8e2907dc0d4a29",
+    "animations": [
+      "Attack",
+      "Cast",
+      "Death",
+      "Hit",
+      "Idle",
+      "Victory",
+      "Walk"
+    ],
+    "skins": 1,
+    "meshes": 10,
+    "triangles": 5296
+  },
+  {
+    "file": "models/enemy-scout.glb",
+    "source": "KayKit adventurers: Rogue_Hooded; Warden equipment and material adaptation",
+    "bytes": 510452,
+    "sha256": "114be321556365e093a9955aeda70c11d98d36fd4db8d0a618acec27c9b89cff",
+    "animations": [
+      "Attack",
+      "Cast",
+      "Death",
+      "Hit",
+      "Idle",
+      "Victory",
+      "Walk"
+    ],
+    "skins": 1,
+    "meshes": 8,
+    "triangles": 4589
+  },
+  {
+    "file": "models/enemy-armor.glb",
+    "source": "KayKit skeletons: Skeleton_Warrior; Warden equipment and material adaptation",
+    "bytes": 632836,
+    "sha256": "dad9a41c48922d120761ac938c487a6e1dc641d2da3946682685af1133500e1e",
+    "animations": [
+      "Attack",
+      "Cast",
+      "Death",
+      "Hit",
+      "Idle",
+      "Victory",
+      "Walk"
+    ],
+    "skins": 1,
+    "meshes": 10,
+    "triangles": 5934
+  },
+  {
+    "file": "models/enemy-shield.glb",
+    "source": "KayKit skeletons: Skeleton_Mage; Warden equipment and material adaptation",
+    "bytes": 538060,
+    "sha256": "dc1424170c8f89fed92e0f32e411666065aaf86b4501127bd4c97f01fe919f4f",
+    "animations": [
+      "Attack",
+      "Cast",
+      "Death",
+      "Hit",
+      "Idle",
+      "Victory",
+      "Walk"
+    ],
+    "skins": 1,
+    "meshes": 13,
+    "triangles": 4602
+  },
+  {
+    "file": "models/enemy-imp.glb",
+    "source": "Quaternius Ultimate Monsters: Big_Orc; Warden proportions and accessories",
+    "bytes": 452216,
+    "sha256": "4b75471f9ccbd15a4d36adc0cefd826f7a4ecfa37dc60b9fc1f9bd2074b781a7",
+    "animations": [
+      "Attack",
+      "Death",
+      "Hit",
+      "Idle",
+      "Walk"
+    ],
+    "skins": 1,
+    "meshes": 2,
+    "triangles": 7344
+  },
+  {
+    "file": "models/enemy-raider.glb",
+    "source": "Quaternius Ultimate Monsters: Big_Tribal; Warden proportions and accessories",
+    "bytes": 452444,
+    "sha256": "433a8dc1d302c6513f6798614f4df28bf8c1264f0ae203e2548cc74ba7102e16",
+    "animations": [
+      "Attack",
+      "Death",
+      "Hit",
+      "Idle",
+      "Walk"
+    ],
+    "skins": 1,
+    "meshes": 1,
+    "triangles": 6620
+  },
+  {
+    "file": "models/enemy-shaman.glb",
+    "source": "Quaternius Ultimate Monsters: Big_Orc_Skull; Warden proportions and accessories",
+    "bytes": 454388,
+    "sha256": "f6be935c13de6572fcd400940f1fc78040aceca4c4845ae8a93a20b112b7e0a3",
+    "animations": [
+      "Attack",
+      "Death",
+      "Hit",
+      "Idle",
+      "Walk"
+    ],
+    "skins": 1,
+    "meshes": 2,
+    "triangles": 7364
+  },
+  {
+    "file": "models/enemy-siege.glb",
+    "source": "Quaternius Ultimate Monsters: Big_Dino; Warden proportions and accessories",
+    "bytes": 405068,
+    "sha256": "a0b8b9cc18b42a3d509714630d9134d47debcdb6295da25367a003e91add2445",
+    "animations": [
+      "Attack",
+      "Death",
+      "Hit",
+      "Idle",
+      "Walk"
+    ],
+    "skins": 1,
+    "meshes": 9,
+    "triangles": 5428
+  },
+  {
+    "file": "models/enemy-elite.glb",
+    "source": "Quaternius Ultimate Monsters: Big_BlueDemon; Warden proportions and accessories",
+    "bytes": 392852,
+    "sha256": "4a3fb68b807a0c706f85ef356537ea0bf0e8eb07dec7cbe37765295e4d2b1932",
+    "animations": [
+      "Attack",
+      "Death",
+      "Hit",
+      "Idle",
+      "Walk"
+    ],
+    "skins": 1,
+    "meshes": 1,
+    "triangles": 5800
+  },
+  {
+    "file": "models/enemy-frostguard.glb",
+    "source": "Quaternius Ultimate Monsters: Big_Yeti; Warden proportions and accessories",
+    "bytes": 418996,
+    "sha256": "ccd57942582cfef2c01c0bdeae55e38f245bed112d49455e84de4a94a236cff3",
+    "animations": [
+      "Attack",
+      "Death",
+      "Hit",
+      "Idle",
+      "Walk"
+    ],
+    "skins": 1,
+    "meshes": 5,
+    "triangles": 6108
+  },
+  {
+    "file": "models/enemy-iceking.glb",
+    "source": "Quaternius Ultimate Monsters: Big_Yeti; Warden proportions and accessories",
+    "bytes": 426924,
+    "sha256": "693f181d059494017faaab77f794a38ac88e0075f1ed23fdb46692dd330f61d5",
+    "animations": [
+      "Attack",
+      "Death",
+      "Hit",
+      "Idle",
+      "Walk"
+    ],
+    "skins": 1,
+    "meshes": 8,
+    "triangles": 6108
+  },
+  {
+    "file": "models/enemy-ashlord.glb",
+    "source": "Quaternius Ultimate Monsters: Big_Demon; Warden proportions and accessories",
+    "bytes": 444908,
+    "sha256": "ed9c940b43290de8935ce5d8264a7a678a70b4c1cc1dcab33f6fb4914332fada",
+    "animations": [
+      "Attack",
+      "Death",
+      "Hit",
+      "Idle",
+      "Walk"
+    ],
+    "skins": 1,
+    "meshes": 9,
+    "triangles": 6726
+  },
+  {
+    "file": "models/enemy-brood.glb",
+    "source": "Quaternius Ultimate Monsters: Blob_Mushnub_Evolved; Warden proportions and accessories",
+    "bytes": 130452,
+    "sha256": "e5018d63f9bc16e35f72c1aef374ceee6bb54e8cb8dc985b3e96b901e1172954",
+    "animations": [
+      "Death",
+      "Idle",
+      "Walk"
+    ],
+    "skins": 1,
+    "meshes": 3,
+    "triangles": 3072
+  },
+  {
+    "file": "models/enemy-grub.glb",
+    "source": "Quaternius Ultimate Monsters: Blob_Mushnub; Warden proportions and accessories",
+    "bytes": 59804,
+    "sha256": "f6266cfbaee66f30b0f1c771d0ca4946de41df44c894a3c018c7cfacad91b45e",
+    "animations": [
+      "Death",
+      "Idle",
+      "Walk"
+    ],
+    "skins": 1,
+    "meshes": 1,
+    "triangles": 1248
+  },
+  {
+    "file": "models/enemy-warlock.glb",
+    "source": "Quaternius Ultimate Monsters: Blob_Wizard; Warden proportions and accessories",
+    "bytes": 76244,
+    "sha256": "794a13827785a14097fcc744c7a75678e36df069a13fb6a674f875d918d64112",
+    "animations": [
+      "Death",
+      "Idle",
+      "Walk"
+    ],
+    "skins": 1,
+    "meshes": 2,
+    "triangles": 1674
+  },
+  {
+    "file": "models/enemy-wisp.glb",
+    "source": "Quaternius Ultimate Monsters: Flying_Ghost; Warden proportions and accessories",
+    "bytes": 210164,
+    "sha256": "e980b87565f99e6fe8c3b1a2e85be59a76c92076aaca8d09ac37c98e0c99b083",
+    "animations": [
+      "Attack",
+      "Death",
+      "Hit"
+    ],
+    "skins": 1,
+    "meshes": 1,
+    "triangles": 3192
+  },
+  {
+    "file": "models/enemy-bat.glb",
+    "source": "Quaternius Ultimate Monsters: Flying_Demon; Warden proportions and accessories",
+    "bytes": 282516,
+    "sha256": "3ad4632fe2d3e2ff964265fe5fa951cb0a0e089bb64f2a9137ca04ca5d234f20",
+    "animations": [
+      "Attack",
+      "Death",
+      "Hit"
+    ],
+    "skins": 1,
+    "meshes": 3,
+    "triangles": 4784
+  },
+  {
+    "file": "models/enemy-harpy.glb",
+    "source": "Quaternius Ultimate Monsters: Flying_Pigeon; Warden proportions and accessories",
+    "bytes": 170968,
+    "sha256": "5161b7bb92c16df3cc45d786691d218939e2239a4290113065c4fbb7f4458815",
+    "animations": [
+      "Attack",
+      "Death",
+      "Hit"
+    ],
+    "skins": 1,
+    "meshes": 1,
+    "triangles": 3512
+  },
+  {
+    "file": "models/enemy-treant.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 451100,
+    "sha256": "caef46cf0206f622e771fb5c7bbf49f8a87b54e0c815be52e6a3ca1b90267cf4",
+    "animations": [
+      "Idle",
+      "Walk",
+      "Attack"
+    ],
+    "skins": 0,
+    "meshes": 18,
+    "triangles": 5996
+  },
+  {
+    "file": "models/enemy-tree.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 452288,
+    "sha256": "5b09048de6498c751ed43ed3a76c59662c695f6afaa41c68171a20673162b41f",
+    "animations": [
+      "Idle",
+      "Walk",
+      "Attack"
+    ],
+    "skins": 0,
+    "meshes": 18,
+    "triangles": 5996
+  },
+  {
+    "file": "models/enemy-wolf.glb",
+    "source": "Quaternius Animated Animals Vol.2 (CC0); smooth fur, skeletal bite/hit/death adaptations",
+    "bytes": 183676,
+    "sha256": "a96133f47459edbb5be06139e331235d033120eb0620b3785005c4497033ecbf",
+    "animations": [
+      "Attack",
+      "Death",
+      "Hit",
+      "Idle",
+      "Walk"
+    ],
+    "skins": 1,
+    "meshes": 13,
+    "triangles": 1490
+  },
+  {
+    "file": "models/tower-arcane-1-base.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 638364,
+    "sha256": "f8fe6487cacfba1825b77fca54baeaab5858d16068b7e38db44e13f2781b464f",
+    "animations": [],
+    "skins": 0,
+    "meshes": 16,
+    "triangles": 8332
+  },
+  {
+    "file": "models/tower-arcane-2-base.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 705176,
+    "sha256": "3f2a712d7f1d89f0de93fa186b4a5e672d1eec823748f87345efacc4890695e3",
+    "animations": [],
+    "skins": 0,
+    "meshes": 16,
+    "triangles": 10084
+  },
+  {
+    "file": "models/tower-arcane-3-0.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 900584,
+    "sha256": "7a352c3c628503f6a1884bcc37b4aa4a85d5d52f8ef983a5febe4d705edcd36d",
+    "animations": [],
+    "skins": 0,
+    "meshes": 21,
+    "triangles": 13272
+  },
+  {
+    "file": "models/tower-arcane-3-1.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 916268,
+    "sha256": "be290eb3687060f01c7c62504c2c9cb88dbeeaabebe9a99b43646d7ca99f7663",
+    "animations": [],
+    "skins": 0,
+    "meshes": 22,
+    "triangles": 13272
+  },
+  {
+    "file": "models/tower-arcane-3-base.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 834264,
+    "sha256": "07ce94508fa797ae63cf0a6a5fcbaaa6cdd776feddda93318087cb7e989eb72a",
+    "animations": [],
+    "skins": 0,
+    "meshes": 20,
+    "triangles": 11944
+  },
+  {
+    "file": "models/tower-arrow-1-base.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 730860,
+    "sha256": "f62d8ce9d1dac605bf0db8d97ac85a286465fdf4008b639d64f197aea8ca57b9",
+    "animations": [],
+    "skins": 0,
+    "meshes": 18,
+    "triangles": 9004
+  },
+  {
+    "file": "models/tower-arrow-2-base.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 876712,
+    "sha256": "ee10226e4f61f052c3da80ac720156ebffbc550fcdb6103eae3060ee62fe236f",
+    "animations": [],
+    "skins": 0,
+    "meshes": 19,
+    "triangles": 11332
+  },
+  {
+    "file": "models/tower-arrow-3-0.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 1041752,
+    "sha256": "51cd1c3c7cc8c653ebe98f38a18631ac06fd243ec1645f89602c6a788c87ba75",
+    "animations": [],
+    "skins": 0,
+    "meshes": 23,
+    "triangles": 14352
+  },
+  {
+    "file": "models/tower-arrow-3-1.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 1058784,
+    "sha256": "24ff1c704618ce3856cbe5957345811e2c1702af5e7af28bafa094a71ff80d05",
+    "animations": [],
+    "skins": 0,
+    "meshes": 24,
+    "triangles": 14352
+  },
+  {
+    "file": "models/tower-arrow-3-base.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 977224,
+    "sha256": "5a64d5ddd839583cab13465fb3c4de15ed690657d87458dafcf8b12d246a1813",
+    "animations": [],
+    "skins": 0,
+    "meshes": 22,
+    "triangles": 13024
+  },
+  {
+    "file": "models/tower-ballista-1-base.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 715484,
+    "sha256": "f17e913b50021453a78d2e646659cfbad9d1e3d743f823d1658d931b6a3e6b1d",
+    "animations": [],
+    "skins": 0,
+    "meshes": 14,
+    "triangles": 12352
+  },
+  {
+    "file": "models/tower-ballista-2-base.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 761808,
+    "sha256": "a8058d6e225dd21998507c03dbeaf90e2995a0bf407ba4162492b3e11c1355dc",
+    "animations": [],
+    "skins": 0,
+    "meshes": 14,
+    "triangles": 13240
+  },
+  {
+    "file": "models/tower-ballista-3-0.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 941564,
+    "sha256": "594887e1159d7db2155c10644c3de886731af9152ce99e3ba99111a68f8d7892",
+    "animations": [],
+    "skins": 0,
+    "meshes": 18,
+    "triangles": 16260
+  },
+  {
+    "file": "models/tower-ballista-3-1.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 958712,
+    "sha256": "ef9bf7a60ae0e63a358134645a79de4b1615af776300d3dfd227f2e4d7732934",
+    "animations": [],
+    "skins": 0,
+    "meshes": 19,
+    "triangles": 16260
+  },
+  {
+    "file": "models/tower-ballista-3-base.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 876692,
+    "sha256": "eccacd98ed9335163d54b22e9d2cd2a139c5f369938ff7e28993dd2373dfa75c",
+    "animations": [],
+    "skins": 0,
+    "meshes": 17,
+    "triangles": 14932
+  },
+  {
+    "file": "models/tower-barracks-1-base.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 728312,
+    "sha256": "7d00c7830a027287b25d7892b103348e047a61fcca5354773f5ea05f28773216",
+    "animations": [],
+    "skins": 0,
+    "meshes": 17,
+    "triangles": 8488
+  },
+  {
+    "file": "models/tower-barracks-2-base.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 795776,
+    "sha256": "3c93e0ae36f8eb951e76e4f627c5efabc87e395d4adf3102b89298b8bf54a80f",
+    "animations": [],
+    "skins": 0,
+    "meshes": 17,
+    "triangles": 9736
+  },
+  {
+    "file": "models/tower-barracks-3-0.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 908640,
+    "sha256": "c99db1c81b7977688b4486f10e76c7ad2eb2457a3e2959553ccf67717b3022d3",
+    "animations": [],
+    "skins": 0,
+    "meshes": 17,
+    "triangles": 12652
+  },
+  {
+    "file": "models/tower-barracks-3-1.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 939100,
+    "sha256": "83c65c9023d4d8d8bff1d27b2ffbbf0cfbc99ac912248e0ccb83e0c05bf15445",
+    "animations": [],
+    "skins": 0,
+    "meshes": 19,
+    "triangles": 12544
+  },
+  {
+    "file": "models/tower-barracks-3-base.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 866508,
+    "sha256": "1c25d2990179fa2325364448febe17d89e1ff8c3d8a6365f5e9ad46443c5eb1a",
+    "animations": [],
+    "skins": 0,
+    "meshes": 17,
+    "triangles": 11428
+  },
+  {
+    "file": "models/tower-cannon-1-base.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 724704,
+    "sha256": "6e8e683ad0dd24755aca8f62f8dc11b90ab1f25d05d8405718c82762499c0001",
+    "animations": [],
+    "skins": 0,
+    "meshes": 16,
+    "triangles": 12832
+  },
+  {
+    "file": "models/tower-cannon-2-base.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 771328,
+    "sha256": "d84e1c89d5791cf27008bf4d78937f10b9b5d0269b41caf149dcb95d4de67c08",
+    "animations": [],
+    "skins": 0,
+    "meshes": 16,
+    "triangles": 13720
+  },
+  {
+    "file": "models/tower-cannon-3-0.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 951228,
+    "sha256": "9b4bb3ecc056e1d12e7a7dc463c4999fcd16c8b6917f6f66b7840e5a6028d644",
+    "animations": [],
+    "skins": 0,
+    "meshes": 20,
+    "triangles": 16740
+  },
+  {
+    "file": "models/tower-cannon-3-1.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 980824,
+    "sha256": "148fd9e0ea190fa94e7f8e0f49d901be3a1f84e53852608b8d2c2ac68b86dbba",
+    "animations": [],
+    "skins": 0,
+    "meshes": 21,
+    "triangles": 17028
+  },
+  {
+    "file": "models/tower-cannon-3-base.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 886280,
+    "sha256": "c576abcd9626713fb1ba684120fa9d5c452b276104cea44b6c47c8db05957775",
+    "animations": [],
+    "skins": 0,
+    "meshes": 19,
+    "triangles": 15412
+  },
+  {
+    "file": "models/tower-frost-1-base.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 634256,
+    "sha256": "3811e5199752f9be6cd49d5c87acf6cda266bd0ff06eceaf817946617c23c486",
+    "animations": [],
+    "skins": 0,
+    "meshes": 16,
+    "triangles": 7300
+  },
+  {
+    "file": "models/tower-frost-2-base.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 701872,
+    "sha256": "753215e1df9c1b9cf11b4c2036196ec2f4770be0445fdeaeb860c151de699f69",
+    "animations": [],
+    "skins": 0,
+    "meshes": 17,
+    "triangles": 9052
+  },
+  {
+    "file": "models/tower-frost-3-0.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 914448,
+    "sha256": "d5c77ddd6e667d38e5a765a106b9da151bc56b14afaa6889274c3ccd803ebe54",
+    "animations": [],
+    "skins": 0,
+    "meshes": 22,
+    "triangles": 12240
+  },
+  {
+    "file": "models/tower-frost-3-1.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 929608,
+    "sha256": "ded911c4d270440b0fb310bada60a4325caf8ee6018a130fa202b908146c7261",
+    "animations": [],
+    "skins": 0,
+    "meshes": 23,
+    "triangles": 12240
+  },
+  {
+    "file": "models/tower-frost-3-base.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 847452,
+    "sha256": "f1f755b8079f10798b85d8f5037aa17b5b4e6aa59c5b1181afe997c2fe56ce57",
+    "animations": [],
+    "skins": 0,
+    "meshes": 21,
+    "triangles": 10912
+  },
+  {
+    "file": "models/tower-nature-1-base.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 716884,
+    "sha256": "3aefeb069d7b1fa55217af8d93f1105d080660148c56b7299087f58510fcf259",
+    "animations": [],
+    "skins": 0,
+    "meshes": 19,
+    "triangles": 8260
+  },
+  {
+    "file": "models/tower-nature-2-base.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 784512,
+    "sha256": "46af207ebaf7207834c8fefd2e776ba39977df404b27f3f63d9778c07aa76324",
+    "animations": [],
+    "skins": 0,
+    "meshes": 20,
+    "triangles": 10012
+  },
+  {
+    "file": "models/tower-nature-3-0.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 976916,
+    "sha256": "4cbf8babfa510818602ef9f32dc3de3cfd1e2e6d7967ee726135b8247503576a",
+    "animations": [],
+    "skins": 0,
+    "meshes": 25,
+    "triangles": 13200
+  },
+  {
+    "file": "models/tower-nature-3-1.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 993936,
+    "sha256": "472dda69eab63605343da1d6e240a4fca3d90c271f94e4d35e5dab9a80ffaba7",
+    "animations": [],
+    "skins": 0,
+    "meshes": 26,
+    "triangles": 13200
+  },
+  {
+    "file": "models/tower-nature-3-base.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 912240,
+    "sha256": "7b2a11806a70f2169f6c59abd4dfdd5c2560a7d9a7907fa2e20a6ccbb571edec",
+    "animations": [],
+    "skins": 0,
+    "meshes": 24,
+    "triangles": 11872
+  },
+  {
+    "file": "models/tower-thunder-1-base.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 670228,
+    "sha256": "a5b5b84a5ee9e5c0e858c2e747b7fa9d2d0757c93c20ef01a928ab6cf72fb966",
+    "animations": [],
+    "skins": 0,
+    "meshes": 16,
+    "triangles": 9532
+  },
+  {
+    "file": "models/tower-thunder-2-base.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 737844,
+    "sha256": "93186a31a5a0f21b5cb66474f02fdc3d25e392a68ad49cb7a3504f762c1f884f",
+    "animations": [],
+    "skins": 0,
+    "meshes": 17,
+    "triangles": 11284
+  },
+  {
+    "file": "models/tower-thunder-3-0.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 945084,
+    "sha256": "c2987063853a724f7634286afc716d021c760f601602c0f1a3cfd875bac7b50d",
+    "animations": [],
+    "skins": 0,
+    "meshes": 22,
+    "triangles": 14368
+  },
+  {
+    "file": "models/tower-thunder-3-1.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 961852,
+    "sha256": "183f17b2b9840047f4952c8e57bfbc4a3e22d55e67e26b004c5c3dbdcce50424",
+    "animations": [],
+    "skins": 0,
+    "meshes": 23,
+    "triangles": 14368
+  },
+  {
+    "file": "models/tower-thunder-3-base.glb",
+    "source": "Original Realm Wardens model; Blender bevel, materials and animation",
+    "bytes": 880548,
+    "sha256": "e1e36add75bf44c254913791a7697354de23e78d7551f64f6ee4b1e6faae0ff6",
+    "animations": [],
+    "skins": 0,
+    "meshes": 21,
+    "triangles": 13144
+  },
+  {
+    "file": "models/town-home-a.glb",
+    "source": "KayKit Medieval Hexagon Pack (CC0): building_home_A_blue",
+    "bytes": 73512,
+    "sha256": "283c423a50d8da2ea26dbbea63ceb7d822bfb3c9184a9fd9a76a5485019bf7c9",
+    "animations": [],
+    "skins": 0,
+    "meshes": 1,
+    "triangles": 1011
+  },
+  {
+    "file": "models/town-home-b.glb",
+    "source": "KayKit Medieval Hexagon Pack (CC0): building_home_B_blue",
+    "bytes": 100540,
+    "sha256": "db11bdc1d5652020bc7466017d23954d35a6231b39298e250c8859da5c686f84",
+    "animations": [],
+    "skins": 0,
+    "meshes": 1,
+    "triangles": 1393
+  },
+  {
+    "file": "models/town-tavern.glb",
+    "source": "KayKit Medieval Hexagon Pack (CC0): building_tavern_blue",
+    "bytes": 190072,
+    "sha256": "5e7b74f2b52bf4f423f89ef60c6a1b53fa8a3e27548cd8fc8ef660e07314e851",
+    "animations": [],
+    "skins": 0,
+    "meshes": 1,
+    "triangles": 2992
+  },
+  {
+    "file": "models/town-market.glb",
+    "source": "KayKit Medieval Hexagon Pack (CC0): building_market_blue",
+    "bytes": 170072,
+    "sha256": "f8419196b42e8d9b48548f61008c32c7039cc57e35eca62a6834e10e9af09ef5",
+    "animations": [],
+    "skins": 0,
+    "meshes": 1,
+    "triangles": 3125
+  },
+  {
+    "file": "models/town-blacksmith.glb",
+    "source": "KayKit Medieval Hexagon Pack (CC0): building_blacksmith_blue",
+    "bytes": 142172,
+    "sha256": "59bcf9d65d822ffac46d800b1817cc856a3d7288b77a25f8e6311a07fde97921",
+    "animations": [],
+    "skins": 0,
+    "meshes": 1,
+    "triangles": 2410
+  },
+  {
+    "file": "models/town-windmill.glb",
+    "source": "KayKit Medieval Hexagon Pack (CC0): building_windmill_blue",
+    "bytes": 161640,
+    "sha256": "715e9ab6426bc0e9f8947de05358040b2ba40f9353c529bdc435225083e51800",
+    "animations": [],
+    "skins": 0,
+    "meshes": 3,
+    "triangles": 2653
+  },
+  {
+    "file": "models/town-well.glb",
+    "source": "KayKit Medieval Hexagon Pack (CC0): building_well_blue",
+    "bytes": 60628,
+    "sha256": "134f9ff712b5a25387e6fdcf0b01c31139645f535ede36606d33c50db373dc99",
+    "animations": [],
+    "skins": 0,
+    "meshes": 1,
+    "triangles": 726
+  },
+  {
+    "file": "models/town-cart.glb",
+    "source": "Kenney Fantasy Town Kit 2.0 (CC0): cart",
+    "bytes": 46700,
+    "sha256": "e70a304664cc9cb5e808367f3deaca8438ad3132cb817f709a76e5e31c55a14f",
+    "animations": [],
+    "skins": 0,
+    "meshes": 3,
+    "triangles": 416
+  },
+  {
+    "file": "models/town-lantern.glb",
+    "source": "Kenney Fantasy Town Kit 2.0 (CC0): lantern",
+    "bytes": 21628,
+    "sha256": "d81db0801572b68fb7e3c6c60cc6b63c737dc1d9c8e82970bdbde32c0d223598",
+    "animations": [],
+    "skins": 0,
+    "meshes": 1,
+    "triangles": 158
+  },
+  {
+    "file": "models/citizen-farmer.glb",
+    "source": "KayKit Adventurers (CC0): unarmed Barbarian resident",
+    "bytes": 359820,
+    "sha256": "17357c63f3e5ba2c8ed73bb9df80aa73ee3e15df5a72a9bd643b35d6035dcea7",
+    "animations": [
+      "Idle",
+      "Panic",
+      "Walk"
+    ],
+    "skins": 1,
+    "meshes": 8,
+    "triangles": 4381
+  },
+  {
+    "file": "models/citizen-merchant.glb",
+    "source": "KayKit Adventurers (CC0): unarmed Mage resident",
+    "bytes": 345984,
+    "sha256": "4bb1fd26c7f531097781600826a32c45599a4e1aa5377ef7dc2370d644f41f68",
+    "animations": [
+      "Idle",
+      "Panic",
+      "Walk"
+    ],
+    "skins": 1,
+    "meshes": 6,
+    "triangles": 4029
+  },
+  {
+    "file": "models/citizen-child.glb",
+    "source": "KayKit Adventurers (CC0): unarmed Rogue_Hooded resident",
+    "bytes": 300312,
+    "sha256": "8e32363acbd5a2571559470158c56e25911020eacc4e1d2bf842e1bef7f4919c",
+    "animations": [
+      "Idle",
+      "Panic",
+      "Walk"
+    ],
+    "skins": 1,
+    "meshes": 5,
+    "triangles": 3148
+  }
+]

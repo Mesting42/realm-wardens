@@ -1,0 +1,15 @@
+import {chromium} from 'playwright';
+import {mkdir} from 'node:fs/promises';
+await mkdir('test-results',{recursive:true});
+const browser=await chromium.launch({executablePath:process.env.CHROME_PATH||'C:/Program Files/Google/Chrome/Application/chrome.exe',headless:true,args:['--enable-unsafe-swiftshader','--no-sandbox']});
+const page=await browser.newPage({viewport:{width:1440,height:900}}),errors=[];
+page.on('pageerror',e=>errors.push(e.message));page.on('console',m=>{if(m.type()==='error')errors.push(m.text());});
+await page.goto('http://127.0.0.1:5175/');await page.waitForTimeout(1500);
+console.log(JSON.stringify({title:await page.title(),errors,metrics:await page.evaluate(()=>window.__REALM_WARDENS__?.renderer.metrics())}));
+await page.screenshot({path:'test-results/desktop-home.png'});
+await page.getByRole('button',{name:/开始征途/}).click();await page.getByRole('button',{name:/王国战役/}).click();
+await page.screenshot({path:'test-results/desktop-campaign.png'});
+await page.locator('[data-action="detail:1"]').click();await page.locator('[data-action="heroes"]').click();await page.locator('[data-action="launch"]').click();await page.waitForTimeout(600);
+await page.screenshot({path:'test-results/desktop-battle.png'});
+console.log(JSON.stringify({snapshot:await page.evaluate(()=>window.__REALM_WARDENS__?.snapshot()),errors}));
+await browser.close();

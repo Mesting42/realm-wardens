@@ -1,0 +1,173 @@
+{
+  "acquired": "2026-10-06",
+  "records": [
+    {
+      "author": "Kay Lousberg",
+      "license": "CC0-1.0",
+      "repository": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+      "revision": "84fa4e91af6a88989be7c99e0891cede11f2ca38",
+      "file": "art/sources/town/kaykit/building_home_A_blue.gltf",
+      "url": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/blob/84fa4e91af6a88989be7c99e0891cede11f2ca38/addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/blue/building_home_A_blue.gltf",
+      "bytes": 3090,
+      "sha256": "60b3568e086d586b491eed8168c46acb61bb9670fb2c296faa64929b18dfcbea"
+    },
+    {
+      "author": "Kay Lousberg",
+      "license": "CC0-1.0",
+      "repository": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+      "revision": "84fa4e91af6a88989be7c99e0891cede11f2ca38",
+      "file": "art/sources/town/kaykit/building_home_A_blue.bin",
+      "url": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/blob/84fa4e91af6a88989be7c99e0891cede11f2ca38/addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/blue/building_home_A_blue.bin",
+      "bytes": 55348,
+      "sha256": "31c30bc9d4fb9ac6182e20331f2501ec153131ca01a57d8412a6b8e6219c23fd"
+    },
+    {
+      "author": "Kay Lousberg",
+      "license": "CC0-1.0",
+      "repository": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+      "revision": "84fa4e91af6a88989be7c99e0891cede11f2ca38",
+      "file": "art/sources/town/kaykit/hexagons_medieval.png",
+      "url": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/blob/84fa4e91af6a88989be7c99e0891cede11f2ca38/addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/blue/hexagons_medieval.png",
+      "bytes": 15783,
+      "sha256": "5301a06866ba3be68dcc14cc429bd6d0f69004b72884283715d7e233f2e9782e"
+    },
+    {
+      "author": "Kay Lousberg",
+      "license": "CC0-1.0",
+      "repository": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+      "revision": "84fa4e91af6a88989be7c99e0891cede11f2ca38",
+      "file": "art/sources/town/kaykit/building_home_B_blue.gltf",
+      "url": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/blob/84fa4e91af6a88989be7c99e0891cede11f2ca38/addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/blue/building_home_B_blue.gltf",
+      "bytes": 3090,
+      "sha256": "bf503f4edcd3a744a021ccdd5b9215f6c8934ef87fa44d95632cb653422797eb"
+    },
+    {
+      "author": "Kay Lousberg",
+      "license": "CC0-1.0",
+      "repository": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+      "revision": "84fa4e91af6a88989be7c99e0891cede11f2ca38",
+      "file": "art/sources/town/kaykit/building_home_B_blue.bin",
+      "url": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/blob/84fa4e91af6a88989be7c99e0891cede11f2ca38/addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/blue/building_home_B_blue.bin",
+      "bytes": 82120,
+      "sha256": "a9736eef43b33d8963f1f54b709eb4395cd5069aa6317b09856687d4045059ca"
+    },
+    {
+      "author": "Kay Lousberg",
+      "license": "CC0-1.0",
+      "repository": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+      "revision": "84fa4e91af6a88989be7c99e0891cede11f2ca38",
+      "file": "art/sources/town/kaykit/building_tavern_blue.gltf",
+      "url": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/blob/84fa4e91af6a88989be7c99e0891cede11f2ca38/addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/blue/building_tavern_blue.gltf",
+      "bytes": 3093,
+      "sha256": "58a3573cf468f9c5f1d03a6da74fbc884f5f662ccddbfef2a10860abfe50109b"
+    },
+    {
+      "author": "Kay Lousberg",
+      "license": "CC0-1.0",
+      "repository": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+      "revision": "84fa4e91af6a88989be7c99e0891cede11f2ca38",
+      "file": "art/sources/town/kaykit/building_tavern_blue.bin",
+      "url": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/blob/84fa4e91af6a88989be7c99e0891cede11f2ca38/addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/blue/building_tavern_blue.bin",
+      "bytes": 170848,
+      "sha256": "00a4f91c275d168a4fcaea5f35cd4839047b498232f5f807d29ec17aa9490fe9"
+    },
+    {
+      "author": "Kay Lousberg",
+      "license": "CC0-1.0",
+      "repository": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+      "revision": "84fa4e91af6a88989be7c99e0891cede11f2ca38",
+      "file": "art/sources/town/kaykit/building_market_blue.gltf",
+      "url": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/blob/84fa4e91af6a88989be7c99e0891cede11f2ca38/addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/blue/building_market_blue.gltf",
+      "bytes": 3091,
+      "sha256": "24874a4651dfff0d1aea31e15a32b9c35122958764c6f968ca55f286285ffbe9"
+    },
+    {
+      "author": "Kay Lousberg",
+      "license": "CC0-1.0",
+      "repository": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+      "revision": "84fa4e91af6a88989be7c99e0891cede11f2ca38",
+      "file": "art/sources/town/kaykit/building_market_blue.bin",
+      "url": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/blob/84fa4e91af6a88989be7c99e0891cede11f2ca38/addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/blue/building_market_blue.bin",
+      "bytes": 152160,
+      "sha256": "35713e17b24a26274ba38def66f17fe838987e4e8f803cf680140b3754676442"
+    },
+    {
+      "author": "Kay Lousberg",
+      "license": "CC0-1.0",
+      "repository": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+      "revision": "84fa4e91af6a88989be7c99e0891cede11f2ca38",
+      "file": "art/sources/town/kaykit/building_blacksmith_blue.gltf",
+      "url": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/blob/84fa4e91af6a88989be7c99e0891cede11f2ca38/addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/blue/building_blacksmith_blue.gltf",
+      "bytes": 3103,
+      "sha256": "b9b76474cde5a379334b31cf8ef108c26e8051b6f7560402cd7c2a100fb4bf54"
+    },
+    {
+      "author": "Kay Lousberg",
+      "license": "CC0-1.0",
+      "repository": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+      "revision": "84fa4e91af6a88989be7c99e0891cede11f2ca38",
+      "file": "art/sources/town/kaykit/building_blacksmith_blue.bin",
+      "url": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/blob/84fa4e91af6a88989be7c99e0891cede11f2ca38/addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/blue/building_blacksmith_blue.bin",
+      "bytes": 123036,
+      "sha256": "2b5f91972249f3b4acee5d293b0291769213f3bd6272bd3fdacbd2b113b82853"
+    },
+    {
+      "author": "Kay Lousberg",
+      "license": "CC0-1.0",
+      "repository": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+      "revision": "84fa4e91af6a88989be7c99e0891cede11f2ca38",
+      "file": "art/sources/town/kaykit/building_windmill_blue.gltf",
+      "url": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/blob/84fa4e91af6a88989be7c99e0891cede11f2ca38/addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/blue/building_windmill_blue.gltf",
+      "bytes": 7328,
+      "sha256": "a98412d4bcd016ce63f66b5d7193adf664867c3649829707b04586fb73e31f38"
+    },
+    {
+      "author": "Kay Lousberg",
+      "license": "CC0-1.0",
+      "repository": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+      "revision": "84fa4e91af6a88989be7c99e0891cede11f2ca38",
+      "file": "art/sources/town/kaykit/building_windmill_blue.bin",
+      "url": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/blob/84fa4e91af6a88989be7c99e0891cede11f2ca38/addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/blue/building_windmill_blue.bin",
+      "bytes": 141680,
+      "sha256": "ced3ff9447703352a7d57e2beb5b5e6f0c661c4d6c623a5d4efc22740103f467"
+    },
+    {
+      "author": "Kay Lousberg",
+      "license": "CC0-1.0",
+      "repository": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+      "revision": "84fa4e91af6a88989be7c99e0891cede11f2ca38",
+      "file": "art/sources/town/kaykit/building_well_blue.gltf",
+      "url": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/blob/84fa4e91af6a88989be7c99e0891cede11f2ca38/addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/blue/building_well_blue.gltf",
+      "bytes": 3083,
+      "sha256": "66305823322b2e6a7f1cb8d8bf0d91ed9b94b8d96f61d0f7af77bd0d09f6463e"
+    },
+    {
+      "author": "Kay Lousberg",
+      "license": "CC0-1.0",
+      "repository": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+      "revision": "84fa4e91af6a88989be7c99e0891cede11f2ca38",
+      "file": "art/sources/town/kaykit/building_well_blue.bin",
+      "url": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/blob/84fa4e91af6a88989be7c99e0891cede11f2ca38/addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/blue/building_well_blue.bin",
+      "bytes": 42340,
+      "sha256": "5c50811c6666df2a9b43afc1a83ccccf19678c0f8e40c3ca0bf341722dc5133f"
+    },
+    {
+      "author": "Kenney",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/fantasy-town-kit",
+      "version": "2.0",
+      "file": "art/sources/town/kenney/Models/GLB format/cart.glb",
+      "bytes": 52920,
+      "sha256": "63503cd0a7398310e01aabc8e3663f711a7517394d23d179d0695157fee99d40"
+    },
+    {
+      "author": "Kenney",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/fantasy-town-kit",
+      "version": "2.0",
+      "file": "art/sources/town/kenney/Models/GLB format/lantern.glb",
+      "bytes": 14984,
+      "sha256": "f270637e3083d6e84a30626ee05df2b09597a642985a7f5c3e4ab5bb1c7a8d55"
+    }
+  ]
+}

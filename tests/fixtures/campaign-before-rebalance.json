@@ -1,0 +1,776 @@
+{
+  "date": "2026-10-06",
+  "verification": "Existing bot, 200 gold, no opening obstacle clearance, full hero unlock fixture; simulation only.",
+  "levels": [
+    {
+      "id": 1,
+      "name": "溪谷哨站",
+      "opening": [
+        {
+          "kind": "imp",
+          "route": 0,
+          "at": 0
+        },
+        {
+          "kind": "wolf",
+          "route": 0,
+          "at": 1.0350000000000001
+        },
+        {
+          "kind": "imp",
+          "route": 0,
+          "at": 2.0700000000000003
+        },
+        {
+          "kind": "wolf",
+          "route": 0,
+          "at": 3.1050000000000004
+        },
+        {
+          "kind": "imp",
+          "route": 0,
+          "at": 4.140000000000001
+        },
+        {
+          "kind": "wolf",
+          "route": 0,
+          "at": 5.175000000000001
+        },
+        {
+          "kind": "imp",
+          "route": 0,
+          "at": 6.210000000000001
+        },
+        {
+          "kind": "wolf",
+          "route": 0,
+          "at": 7.245000000000001
+        }
+      ],
+      "firstWaveHP": 856,
+      "boss": null,
+      "simulation": {
+        "mode": "victory",
+        "lives": 20,
+        "wave": 5,
+        "time": 111,
+        "kills": 60
+      }
+    },
+    {
+      "id": 2,
+      "name": "双流交汇",
+      "opening": [
+        {
+          "kind": "imp",
+          "route": 0,
+          "at": 0
+        },
+        {
+          "kind": "wolf",
+          "route": 1,
+          "at": 1.0350000000000001
+        },
+        {
+          "kind": "imp",
+          "route": 0,
+          "at": 2.0700000000000003
+        },
+        {
+          "kind": "wolf",
+          "route": 1,
+          "at": 3.1050000000000004
+        },
+        {
+          "kind": "imp",
+          "route": 0,
+          "at": 4.140000000000001
+        },
+        {
+          "kind": "wolf",
+          "route": 1,
+          "at": 5.175000000000001
+        },
+        {
+          "kind": "imp",
+          "route": 0,
+          "at": 6.210000000000001
+        },
+        {
+          "kind": "wolf",
+          "route": 1,
+          "at": 7.245000000000001
+        }
+      ],
+      "firstWaveHP": 895,
+      "boss": null,
+      "simulation": {
+        "mode": "victory",
+        "lives": 20,
+        "wave": 5,
+        "time": 136,
+        "kills": 88
+      }
+    },
+    {
+      "id": 3,
+      "name": "风语林径",
+      "opening": [
+        {
+          "kind": "wolf",
+          "route": 0,
+          "at": 0
+        },
+        {
+          "kind": "raider",
+          "route": 0,
+          "at": 1.0350000000000001
+        },
+        {
+          "kind": "wolf",
+          "route": 0,
+          "at": 2.0700000000000003
+        },
+        {
+          "kind": "raider",
+          "route": 0,
+          "at": 3.1050000000000004
+        },
+        {
+          "kind": "wolf",
+          "route": 0,
+          "at": 4.140000000000001
+        },
+        {
+          "kind": "raider",
+          "route": 0,
+          "at": 5.175000000000001
+        },
+        {
+          "kind": "wolf",
+          "route": 0,
+          "at": 6.210000000000001
+        },
+        {
+          "kind": "raider",
+          "route": 0,
+          "at": 7.245000000000001
+        },
+        {
+          "kind": "wolf",
+          "route": 0,
+          "at": 8.280000000000001
+        }
+      ],
+      "firstWaveHP": 1535,
+      "boss": null,
+      "simulation": {
+        "mode": "victory",
+        "lives": 20,
+        "wave": 6,
+        "time": 168,
+        "kills": 84
+      }
+    },
+    {
+      "id": 4,
+      "name": "古树圣所",
+      "opening": [
+        {
+          "kind": "imp",
+          "route": 0,
+          "at": 0
+        },
+        {
+          "kind": "raider",
+          "route": 0,
+          "at": 1.0350000000000001
+        },
+        {
+          "kind": "imp",
+          "route": 0,
+          "at": 2.0700000000000003
+        },
+        {
+          "kind": "raider",
+          "route": 0,
+          "at": 3.1050000000000004
+        },
+        {
+          "kind": "imp",
+          "route": 0,
+          "at": 4.140000000000001
+        },
+        {
+          "kind": "raider",
+          "route": 0,
+          "at": 5.175000000000001
+        },
+        {
+          "kind": "imp",
+          "route": 0,
+          "at": 6.210000000000001
+        },
+        {
+          "kind": "raider",
+          "route": 0,
+          "at": 7.245000000000001
+        },
+        {
+          "kind": "imp",
+          "route": 0,
+          "at": 8.280000000000001
+        }
+      ],
+      "firstWaveHP": 1451,
+      "boss": "treant",
+      "simulation": {
+        "mode": "victory",
+        "lives": 20,
+        "wave": 7,
+        "time": 282,
+        "kills": 144
+      }
+    },
+    {
+      "id": 5,
+      "name": "雪落隘口",
+      "opening": [
+        {
+          "kind": "raider",
+          "route": 0,
+          "at": 0
+        },
+        {
+          "kind": "armor",
+          "route": 0,
+          "at": 1.0350000000000001
+        },
+        {
+          "kind": "raider",
+          "route": 0,
+          "at": 2.0700000000000003
+        },
+        {
+          "kind": "armor",
+          "route": 0,
+          "at": 3.1050000000000004
+        },
+        {
+          "kind": "raider",
+          "route": 0,
+          "at": 4.140000000000001
+        },
+        {
+          "kind": "armor",
+          "route": 0,
+          "at": 5.175000000000001
+        },
+        {
+          "kind": "raider",
+          "route": 0,
+          "at": 6.210000000000001
+        },
+        {
+          "kind": "armor",
+          "route": 0,
+          "at": 7.245000000000001
+        },
+        {
+          "kind": "raider",
+          "route": 0,
+          "at": 8.280000000000001
+        }
+      ],
+      "firstWaveHP": 2971,
+      "boss": null,
+      "simulation": {
+        "mode": "victory",
+        "lives": 20,
+        "wave": 6,
+        "time": 223,
+        "kills": 84
+      }
+    },
+    {
+      "id": 6,
+      "name": "冰桥岔路",
+      "opening": [
+        {
+          "kind": "armor",
+          "route": 0,
+          "at": 0
+        },
+        {
+          "kind": "harpy",
+          "route": 1,
+          "at": 1.0350000000000001
+        },
+        {
+          "kind": "armor",
+          "route": 0,
+          "at": 2.0700000000000003
+        },
+        {
+          "kind": "harpy",
+          "route": 1,
+          "at": 3.1050000000000004
+        },
+        {
+          "kind": "armor",
+          "route": 0,
+          "at": 4.140000000000001
+        },
+        {
+          "kind": "harpy",
+          "route": 1,
+          "at": 5.175000000000001
+        },
+        {
+          "kind": "armor",
+          "route": 0,
+          "at": 6.210000000000001
+        },
+        {
+          "kind": "harpy",
+          "route": 1,
+          "at": 7.245000000000001
+        },
+        {
+          "kind": "armor",
+          "route": 0,
+          "at": 8.280000000000001
+        },
+        {
+          "kind": "harpy",
+          "route": 1,
+          "at": 9.315000000000001
+        }
+      ],
+      "firstWaveHP": 3981,
+      "boss": null,
+      "simulation": {
+        "mode": "victory",
+        "lives": 20,
+        "wave": 6,
+        "time": 207,
+        "kills": 90
+      }
+    },
+    {
+      "id": 7,
+      "name": "白霜堡垒",
+      "opening": [
+        {
+          "kind": "raider",
+          "route": 0,
+          "at": 0
+        },
+        {
+          "kind": "shaman",
+          "route": 1,
+          "at": 1.0350000000000001
+        },
+        {
+          "kind": "raider",
+          "route": 0,
+          "at": 2.0700000000000003
+        },
+        {
+          "kind": "shaman",
+          "route": 1,
+          "at": 3.1050000000000004
+        },
+        {
+          "kind": "raider",
+          "route": 0,
+          "at": 4.140000000000001
+        },
+        {
+          "kind": "shaman",
+          "route": 1,
+          "at": 5.175000000000001
+        },
+        {
+          "kind": "raider",
+          "route": 0,
+          "at": 6.210000000000001
+        },
+        {
+          "kind": "shaman",
+          "route": 1,
+          "at": 7.245000000000001
+        },
+        {
+          "kind": "raider",
+          "route": 0,
+          "at": 8.280000000000001
+        },
+        {
+          "kind": "shaman",
+          "route": 1,
+          "at": 9.315000000000001
+        }
+      ],
+      "firstWaveHP": 2813,
+      "boss": null,
+      "simulation": {
+        "mode": "victory",
+        "lives": 20,
+        "wave": 7,
+        "time": 279,
+        "kills": 112
+      }
+    },
+    {
+      "id": 8,
+      "name": "永冬王座",
+      "opening": [
+        {
+          "kind": "armor",
+          "route": 0,
+          "at": 0
+        },
+        {
+          "kind": "wisp",
+          "route": 0,
+          "at": 1.0350000000000001
+        },
+        {
+          "kind": "armor",
+          "route": 0,
+          "at": 2.0700000000000003
+        },
+        {
+          "kind": "wisp",
+          "route": 0,
+          "at": 3.1050000000000004
+        },
+        {
+          "kind": "armor",
+          "route": 0,
+          "at": 4.140000000000001
+        },
+        {
+          "kind": "wisp",
+          "route": 0,
+          "at": 5.175000000000001
+        },
+        {
+          "kind": "armor",
+          "route": 0,
+          "at": 6.210000000000001
+        },
+        {
+          "kind": "wisp",
+          "route": 0,
+          "at": 7.245000000000001
+        },
+        {
+          "kind": "armor",
+          "route": 0,
+          "at": 8.280000000000001
+        },
+        {
+          "kind": "wisp",
+          "route": 0,
+          "at": 9.315000000000001
+        }
+      ],
+      "firstWaveHP": 3846,
+      "boss": "iceking",
+      "simulation": {
+        "mode": "victory",
+        "lives": 20,
+        "wave": 8,
+        "time": 387,
+        "kills": 137
+      }
+    },
+    {
+      "id": 9,
+      "name": "余火城门",
+      "opening": [
+        {
+          "kind": "elite",
+          "route": 0,
+          "at": 0
+        },
+        {
+          "kind": "siege",
+          "route": 0,
+          "at": 1.0350000000000001
+        },
+        {
+          "kind": "elite",
+          "route": 0,
+          "at": 2.0700000000000003
+        },
+        {
+          "kind": "siege",
+          "route": 0,
+          "at": 3.1050000000000004
+        },
+        {
+          "kind": "elite",
+          "route": 0,
+          "at": 4.140000000000001
+        },
+        {
+          "kind": "siege",
+          "route": 0,
+          "at": 5.175000000000001
+        },
+        {
+          "kind": "elite",
+          "route": 0,
+          "at": 6.210000000000001
+        },
+        {
+          "kind": "siege",
+          "route": 0,
+          "at": 7.245000000000001
+        },
+        {
+          "kind": "elite",
+          "route": 0,
+          "at": 8.280000000000001
+        },
+        {
+          "kind": "siege",
+          "route": 0,
+          "at": 9.315000000000001
+        },
+        {
+          "kind": "elite",
+          "route": 0,
+          "at": 10.350000000000001
+        }
+      ],
+      "firstWaveHP": 10467,
+      "boss": null,
+      "simulation": {
+        "mode": "victory",
+        "lives": 11,
+        "wave": 7,
+        "time": 299,
+        "kills": 256
+      }
+    },
+    {
+      "id": 10,
+      "name": "黑曜回廊",
+      "opening": [
+        {
+          "kind": "elite",
+          "route": 0,
+          "at": 0
+        },
+        {
+          "kind": "harpy",
+          "route": 1,
+          "at": 1.0350000000000001
+        },
+        {
+          "kind": "elite",
+          "route": 2,
+          "at": 2.0700000000000003
+        },
+        {
+          "kind": "harpy",
+          "route": 0,
+          "at": 3.1050000000000004
+        },
+        {
+          "kind": "elite",
+          "route": 1,
+          "at": 4.140000000000001
+        },
+        {
+          "kind": "harpy",
+          "route": 2,
+          "at": 5.175000000000001
+        },
+        {
+          "kind": "elite",
+          "route": 0,
+          "at": 6.210000000000001
+        },
+        {
+          "kind": "harpy",
+          "route": 1,
+          "at": 7.245000000000001
+        },
+        {
+          "kind": "elite",
+          "route": 2,
+          "at": 8.280000000000001
+        },
+        {
+          "kind": "harpy",
+          "route": 0,
+          "at": 9.315000000000001
+        },
+        {
+          "kind": "elite",
+          "route": 1,
+          "at": 10.350000000000001
+        }
+      ],
+      "firstWaveHP": 7069,
+      "boss": null,
+      "simulation": {
+        "mode": "defeat",
+        "lives": 0,
+        "wave": 2,
+        "time": 84,
+        "kills": 31
+      }
+    },
+    {
+      "id": 11,
+      "name": "破碎王庭",
+      "opening": [
+        {
+          "kind": "warlock",
+          "route": 0,
+          "at": 0
+        },
+        {
+          "kind": "shaman",
+          "route": 1,
+          "at": 1.0350000000000001
+        },
+        {
+          "kind": "warlock",
+          "route": 0,
+          "at": 2.0700000000000003
+        },
+        {
+          "kind": "shaman",
+          "route": 1,
+          "at": 3.1050000000000004
+        },
+        {
+          "kind": "warlock",
+          "route": 0,
+          "at": 4.140000000000001
+        },
+        {
+          "kind": "shaman",
+          "route": 1,
+          "at": 5.175000000000001
+        },
+        {
+          "kind": "warlock",
+          "route": 0,
+          "at": 6.210000000000001
+        },
+        {
+          "kind": "shaman",
+          "route": 1,
+          "at": 7.245000000000001
+        },
+        {
+          "kind": "warlock",
+          "route": 0,
+          "at": 8.280000000000001
+        },
+        {
+          "kind": "shaman",
+          "route": 1,
+          "at": 9.315000000000001
+        },
+        {
+          "kind": "warlock",
+          "route": 0,
+          "at": 10.350000000000001
+        }
+      ],
+      "firstWaveHP": 5253,
+      "boss": null,
+      "simulation": {
+        "mode": "victory",
+        "lives": 17,
+        "wave": 8,
+        "time": 356,
+        "kills": 237
+      }
+    },
+    {
+      "id": 12,
+      "name": "无冕之战",
+      "opening": [
+        {
+          "kind": "elite",
+          "route": 0,
+          "at": 0
+        },
+        {
+          "kind": "siege",
+          "route": 1,
+          "at": 1.0350000000000001
+        },
+        {
+          "kind": "elite",
+          "route": 2,
+          "at": 2.0700000000000003
+        },
+        {
+          "kind": "siege",
+          "route": 0,
+          "at": 3.1050000000000004
+        },
+        {
+          "kind": "elite",
+          "route": 1,
+          "at": 4.140000000000001
+        },
+        {
+          "kind": "siege",
+          "route": 2,
+          "at": 5.175000000000001
+        },
+        {
+          "kind": "elite",
+          "route": 0,
+          "at": 6.210000000000001
+        },
+        {
+          "kind": "siege",
+          "route": 1,
+          "at": 7.245000000000001
+        },
+        {
+          "kind": "elite",
+          "route": 2,
+          "at": 8.280000000000001
+        },
+        {
+          "kind": "siege",
+          "route": 0,
+          "at": 9.315000000000001
+        },
+        {
+          "kind": "elite",
+          "route": 1,
+          "at": 10.350000000000001
+        },
+        {
+          "kind": "siege",
+          "route": 2,
+          "at": 11.385000000000002
+        }
+      ],
+      "firstWaveHP": 12710,
+      "boss": "ashlord",
+      "simulation": {
+        "mode": "defeat",
+        "lives": 0,
+        "wave": 1,
+        "time": 76,
+        "kills": 6
+      }
+    }
+  ]
+}

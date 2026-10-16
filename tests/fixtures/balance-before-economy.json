@@ -1,0 +1,157 @@
+{
+  "date": "2026-10-06",
+  "enemies": {
+    "imp": {
+      "hp": 72,
+      "damage": 9,
+      "reward": 14
+    },
+    "wolf": {
+      "hp": 92,
+      "damage": 14,
+      "reward": 17
+    },
+    "raider": {
+      "hp": 155,
+      "damage": 18,
+      "reward": 20
+    },
+    "armor": {
+      "hp": 290,
+      "damage": 24,
+      "reward": 32
+    },
+    "wisp": {
+      "hp": 160,
+      "damage": 12,
+      "reward": 23
+    },
+    "bat": {
+      "hp": 100,
+      "damage": 0,
+      "reward": 18
+    },
+    "harpy": {
+      "hp": 210,
+      "damage": 0,
+      "reward": 28
+    },
+    "shaman": {
+      "hp": 185,
+      "damage": 16,
+      "reward": 28
+    },
+    "shield": {
+      "hp": 210,
+      "damage": 20,
+      "reward": 30
+    },
+    "brood": {
+      "hp": 235,
+      "damage": 17,
+      "reward": 27
+    },
+    "grub": {
+      "hp": 45,
+      "damage": 7,
+      "reward": 4
+    },
+    "siege": {
+      "hp": 620,
+      "damage": 52,
+      "reward": 52
+    },
+    "elite": {
+      "hp": 470,
+      "damage": 30,
+      "reward": 45
+    },
+    "warlock": {
+      "hp": 310,
+      "damage": 23,
+      "reward": 38
+    },
+    "frostguard": {
+      "hp": 550,
+      "damage": 38,
+      "reward": 48
+    },
+    "treant": {
+      "hp": 2600,
+      "damage": 55,
+      "reward": 220
+    },
+    "iceking": {
+      "hp": 4400,
+      "damage": 72,
+      "reward": 300
+    },
+    "ashlord": {
+      "hp": 6600,
+      "damage": 90,
+      "reward": 450
+    }
+  },
+  "maps": [
+    {
+      "id": 1,
+      "gold": 340
+    },
+    {
+      "id": 2,
+      "gold": 360
+    },
+    {
+      "id": 3,
+      "gold": 390
+    },
+    {
+      "id": 4,
+      "gold": 420
+    },
+    {
+      "id": 5,
+      "gold": 430
+    },
+    {
+      "id": 6,
+      "gold": 460
+    },
+    {
+      "id": 7,
+      "gold": 490
+    },
+    {
+      "id": 8,
+      "gold": 510
+    },
+    {
+      "id": 9,
+      "gold": 530
+    },
+    {
+      "id": 10,
+      "gold": 560
+    },
+    {
+      "id": 11,
+      "gold": 590
+    },
+    {
+      "id": 12,
+      "gold": 620
+    },
+    {
+      "id": "e1",
+      "gold": 520
+    },
+    {
+      "id": "e2",
+      "gold": 540
+    },
+    {
+      "id": "e3",
+      "gold": 560
+    }
+  ]
+}

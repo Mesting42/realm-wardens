@@ -1,0 +1,12 @@
+node_modules/
+dist/
+test-results/
+*.log
+.DS_Store
+.tools/
+.wrangler/
+.dev.vars
+.env
+.env.*
+*.blend1
+*.blend2

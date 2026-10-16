@@ -1,0 +1,13 @@
+{
+  "acquired": "2026-10-06",
+  "records": [
+    {
+      "file": "art/sources/animals/animals-vol2.zip",
+      "bytes": 2069972,
+      "sha256": "6d8f6789d65dbdb352ebad98a4209f26b41b384e87d81bc05e9ca76139db1248",
+      "author": "Quaternius",
+      "license": "CC0-1.0",
+      "url": "https://opengameart.org/content/animated-animales-low-poly"
+    }
+  ]
+}

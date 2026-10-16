@@ -1,0 +1,150 @@
+[
+  {
+    "file": "models/enemy-wolf.glb",
+    "source": "Quaternius Animated Animals Vol.2 (CC0); smooth fur, skeletal bite/hit/death adaptations",
+    "bytes": 183676,
+    "sha256": "a96133f47459edbb5be06139e331235d033120eb0620b3785005c4497033ecbf",
+    "animations": [
+      "Attack",
+      "Death",
+      "Hit",
+      "Idle",
+      "Walk"
+    ],
+    "skins": 1,
+    "meshes": 13,
+    "triangles": 1490
+  },
+  {
+    "file": "models/town-home-a.glb",
+    "source": "KayKit Medieval Hexagon Pack (CC0): building_home_A_blue",
+    "bytes": 73512,
+    "sha256": "283c423a50d8da2ea26dbbea63ceb7d822bfb3c9184a9fd9a76a5485019bf7c9",
+    "animations": [],
+    "skins": 0,
+    "meshes": 1,
+    "triangles": 1011
+  },
+  {
+    "file": "models/town-home-b.glb",
+    "source": "KayKit Medieval Hexagon Pack (CC0): building_home_B_blue",
+    "bytes": 100540,
+    "sha256": "db11bdc1d5652020bc7466017d23954d35a6231b39298e250c8859da5c686f84",
+    "animations": [],
+    "skins": 0,
+    "meshes": 1,
+    "triangles": 1393
+  },
+  {
+    "file": "models/town-tavern.glb",
+    "source": "KayKit Medieval Hexagon Pack (CC0): building_tavern_blue",
+    "bytes": 190072,
+    "sha256": "5e7b74f2b52bf4f423f89ef60c6a1b53fa8a3e27548cd8fc8ef660e07314e851",
+    "animations": [],
+    "skins": 0,
+    "meshes": 1,
+    "triangles": 2992
+  },
+  {
+    "file": "models/town-market.glb",
+    "source": "KayKit Medieval Hexagon Pack (CC0): building_market_blue",
+    "bytes": 170072,
+    "sha256": "f8419196b42e8d9b48548f61008c32c7039cc57e35eca62a6834e10e9af09ef5",
+    "animations": [],
+    "skins": 0,
+    "meshes": 1,
+    "triangles": 3125
+  },
+  {
+    "file": "models/town-blacksmith.glb",
+    "source": "KayKit Medieval Hexagon Pack (CC0): building_blacksmith_blue",
+    "bytes": 142172,
+    "sha256": "59bcf9d65d822ffac46d800b1817cc856a3d7288b77a25f8e6311a07fde97921",
+    "animations": [],
+    "skins": 0,
+    "meshes": 1,
+    "triangles": 2410
+  },
+  {
+    "file": "models/town-windmill.glb",
+    "source": "KayKit Medieval Hexagon Pack (CC0): building_windmill_blue",
+    "bytes": 161640,
+    "sha256": "715e9ab6426bc0e9f8947de05358040b2ba40f9353c529bdc435225083e51800",
+    "animations": [],
+    "skins": 0,
+    "meshes": 3,
+    "triangles": 2653
+  },
+  {
+    "file": "models/town-well.glb",
+    "source": "KayKit Medieval Hexagon Pack (CC0): building_well_blue",
+    "bytes": 60628,
+    "sha256": "134f9ff712b5a25387e6fdcf0b01c31139645f535ede36606d33c50db373dc99",
+    "animations": [],
+    "skins": 0,
+    "meshes": 1,
+    "triangles": 726
+  },
+  {
+    "file": "models/town-cart.glb",
+    "source": "Kenney Fantasy Town Kit 2.0 (CC0): cart",
+    "bytes": 46700,
+    "sha256": "e70a304664cc9cb5e808367f3deaca8438ad3132cb817f709a76e5e31c55a14f",
+    "animations": [],
+    "skins": 0,
+    "meshes": 3,
+    "triangles": 416
+  },
+  {
+    "file": "models/town-lantern.glb",
+    "source": "Kenney Fantasy Town Kit 2.0 (CC0): lantern",
+    "bytes": 21628,
+    "sha256": "d81db0801572b68fb7e3c6c60cc6b63c737dc1d9c8e82970bdbde32c0d223598",
+    "animations": [],
+    "skins": 0,
+    "meshes": 1,
+    "triangles": 158
+  },
+  {
+    "file": "models/citizen-farmer.glb",
+    "source": "KayKit Adventurers (CC0): unarmed Barbarian resident",
+    "bytes": 359820,
+    "sha256": "17357c63f3e5ba2c8ed73bb9df80aa73ee3e15df5a72a9bd643b35d6035dcea7",
+    "animations": [
+      "Idle",
+      "Panic",
+      "Walk"
+    ],
+    "skins": 1,
+    "meshes": 8,
+    "triangles": 4381
+  },
+  {
+    "file": "models/citizen-merchant.glb",
+    "source": "KayKit Adventurers (CC0): unarmed Mage resident",
+    "bytes": 345984,
+    "sha256": "4bb1fd26c7f531097781600826a32c45599a4e1aa5377ef7dc2370d644f41f68",
+    "animations": [
+      "Idle",
+      "Panic",
+      "Walk"
+    ],
+    "skins": 1,
+    "meshes": 6,
+    "triangles": 4029
+  },
+  {
+    "file": "models/citizen-child.glb",
+    "source": "KayKit Adventurers (CC0): unarmed Rogue_Hooded resident",
+    "bytes": 300312,
+    "sha256": "8e32363acbd5a2571559470158c56e25911020eacc4e1d2bf842e1bef7f4919c",
+    "animations": [
+      "Idle",
+      "Panic",
+      "Walk"
+    ],
+    "skins": 1,
+    "meshes": 5,
+    "triangles": 3148
+  }
+]
