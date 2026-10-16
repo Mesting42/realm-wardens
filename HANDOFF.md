@@ -19,7 +19,7 @@
 - 原交接任务“编写当前会话的交接文档”已完成；后续Boss顶栏调整也已完成，范围和证据见本文开头的接手增量。继续工作以用户新消息为准。
 - 整个显示器短暂黑屏有 NVIDIA 错误日志证据。应用已经降载，但实体显卡黑屏是否消除仍未验证。后续自动浏览器继续使用 SwiftShader，避免自动重现实体 GPU 故障。
 - 现有测试报告跨越多个版本。最新专项、正常规则模拟、真实浏览器游玩、固定场景覆盖及历史结果必须分开描述。
-- 当前项目根目录没有 `.git`。不要假设存在提交、分支、远程仓库或可用于恢复的 Git 历史。
+- 源码在公开仓库 [Mesting42/realm-wardens](https://github.com/Mesting42/realm-wardens)，默认分支为 `main`。提交历史从本次公开首发开始。
 
 建议阅读顺序：[README.md](README.md) → 本文件 → [TESTING.md](TESTING.md) 顶部最新记录；改移动端先读 [MOBILE-BATTLE.md](docs/MOBILE-BATTLE.md)，涉及渲染先读 [GPU-DIAGNOSTIC.md](docs/GPU-DIAGNOSTIC.md)。
 
