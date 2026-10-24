@@ -276,3 +276,14 @@ npm run test:delivery
 仅使用开源 `frontend-design` Skill 指导美术与界面，Apache 2.0 许可。未使用插件、游戏模板、游戏生成器或预制 Agent 工作流。Three.js 0.180.0、Vite 7.3.6 和 Playwright 1.55.1 的许可证随各 npm 包提供。CC0 模型使用与改造说明见 `docs/THIRD-PARTY.md`；美术流程、可编辑工程和重建方法见 `docs/MODELS.md`。
 
 另一个本地项目仅用于只读参考，没有复制其代码或资源。
+
+<!-- pixel-pier-game-listing:start -->
+## Game listing / 游戏展示
+
+- **Game developer / 游戏开发者:** Mest ([@Mesting42](https://github.com/Mesting42))
+- **Pixel Pier listing / 游戏展示页面:** [Realm Wardens](https://riverglint.link/games/realm-wardens/)
+
+This game is listed on Pixel Pier with a play entry and game guide. This link identifies a game-development and listing relationship; it does not identify the developer as the website operator or operating entity.
+
+本游戏在 Pixel Pier 展示，并提供游玩入口与游戏指南。此链接仅表示游戏开发与展示关联，不代表开发者是该网站的运营者或运营主体。
+<!-- pixel-pier-game-listing:end -->
